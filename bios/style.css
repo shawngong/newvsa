@@ -1,0 +1,107 @@
+/* RESET */
+* { margin: 0; padding: 0; }
+
+body {
+font:14px "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+color:#333;
+background:white;
+}
+
+h2 {
+font-family:"Tangerine", serif;
+font-size: 35px;
+color: #cc0000
+}
+
+h3 {
+font-family: "Tangerine", serif;
+font-size: 20px;
+color: #222222;
+font-style: bold;
+padding-top: 8px;
+
+}
+
+h4{
+font-family: "Tangerine", serif;
+color: #555;
+font-size: 16px;
+padding-top: 8px;
+
+}
+.container {
+width: 1400px;
+margin: auto;
+background-image: url('uwvsa-logo-265.png');
+background-repeat: no-repeat;
+background-position: 0 80px ;
+} 
+
+.container-inner {
+width: 1000px;
+margin: auto;
+background-color: rgba(223,227,228, 0.75);
+margin-bottom: 40px;
+border-radius: 15px;
+
+}
+
+#heading {
+font-size: 3.0em;
+padding: 10px;
+margin: 30px auto;
+width: 1450px;
+text-align: center;
+border-bottom: 2px solid #cc0000;
+color: #222;
+font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+font-weight: 300;
+text-rendering: optimizeLegibility;
+}
+
+.center {
+margin: 15px;
+vertical-align: middle;
+}
+
+.logo {
+position: absolute;
+top: 80px;
+left: 150px;
+}
+
+.clearfix {
+clear:both;
+}
+.icon {
+
+}
+
+.text {
+margin: 40px;
+float: left;
+width: 40%; 
+margin-left: 90px;
+background-color: rgba(252,254,255,0.4);
+padding: 15px;
+border-radius: 10px;
+}
+
+.headers {
+margin-bottom: 40px;
+}
+
+.paragraph {
+line-height:1.5em;
+}
+
+.bodyshot {
+border-top-right-radius: 15px;
+border-bottom-right-radius: 15px;
+float:right;
+}
+
+.contact {
+margin-top: 40px;
+padding: 2px;
+}
