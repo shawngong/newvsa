@@ -100,7 +100,7 @@ margin-top: 15px;
 }
 
 .layer {
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.3);
   position: absolute;
   left: 0;
   top: 0;
@@ -145,11 +145,11 @@ body {
 }
 
 #feature {
-	background: #F2F2F2;
+	background: url(../images/background.png);
 }
 
 #execs {
-	background: #F2F2F2;
+	background: url(../images/background.png);
 }
 
 #sponsers {
@@ -422,4 +422,8 @@ body {
 	color: #575757;
 	line-height: 1.4em;
 	font-size: 1.4em;
+}
+
+.eventscontainer {
+	height: 220px;
 }
