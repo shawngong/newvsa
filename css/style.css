@@ -112,10 +112,11 @@ margin-top: 15px;
 	position: relative;
 }
 
-#services{
-	background-image: url("../images/ignite.png");
+#culture{
+	background-image: url("../images/ignitedark.png");
 	background-size: cover;
-	position: relative;
+	background-repeat: no-repeat;
+
 }
 
 h1, h2 {
@@ -449,4 +450,14 @@ body {
 
 .carousel-content h2{
 	font-size: 2em;
+}
+
+#navtitle {
+	font-size: 20px;
+	display: inline-block;
+	vertical-align: middle;
+	font-family: 'Vollkorn', serif;
+	margin: auto auto;
+	padding-left: 10px;
+	padding-top: 5px;
 }
