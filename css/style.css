@@ -9,6 +9,7 @@
 
 #headshot {
 	margin-top: 20%;
+	margin-bottom: 20%;
 	border-radius: 15px;
 }
 
@@ -496,4 +497,14 @@ body {
 
 #firstauthor {
 	color: black;
+}
+
+.recent-work-wrap .overlay {
+	padding: 5%;
+}
+
+@media screen and (max-width: 960px){
+	.exec-pic {
+		width: 70%;
+	}
 }
