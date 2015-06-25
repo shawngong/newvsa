@@ -8,7 +8,8 @@
 }
 
 #headshot {
-	margin: 0 50%;
+	margin-top: 20%;
+	border-radius: 15px;
 }
 
 #messagetext {
@@ -83,15 +84,15 @@ margin-top: 15px;
 
 .author1 {
 	font-style: italic;
-	font-size: 1.8em;
+	font-size: 1.4em;
 	text-align: right;
 	font-family: 'Vollkorn', serif;
 }
 
 .quote {
-	padding-top: 30px;
-	line-height: 1.8em;
-	font-size: 1.8em;
+	padding-top: 15%;
+	line-height: 1.4em;
+	font-size: 1.4em;
 	font-family: 'Vollkorn', serif;
 }
 
@@ -100,7 +101,7 @@ margin-top: 15px;
 }
 
 .layer {
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.6);
   position: absolute;
   left: 0;
   top: 0;
@@ -137,9 +138,6 @@ body {
 	font-family: 'Vollkorn', serif;
 }
 
-#testimonial1 .quote {
-	margin-top: 10%;
-}
 
 #message {
 	background: rgba(42, 46, 62, 1);
@@ -460,4 +458,42 @@ body {
 	margin: auto auto;
 	padding-left: 10px;
 	padding-top: 5px;
+}
+
+#culturequote {
+	color: white;
+}
+
+.layerdark {
+  background: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#eventsquote {
+	color: black;
+}
+
+#eventsauthor {
+	color: black;
+}
+
+.layerblue {
+  background: rgba(0,0,0, 0.5);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#firstquote {
+	color: black;
+}
+
+#firstauthor {
+	color: black;
 }
