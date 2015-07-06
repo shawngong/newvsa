@@ -206,9 +206,8 @@ body {
 }
 
 #events {
-	background: #F2F2F2;
-	height: auto;
-	min-height: 1000px;
+	background: url(../images/background.png);
+	min-height: 800px;
 	width: 100%;
 }
 
@@ -224,6 +223,17 @@ body {
 	font-size: 2.4em;
 }
 
+#error {
+	min-height: 800px;
+}
+
+.noevents {
+	text-align: center;
+	font-family:'Lato', sans-serif; 
+	font-size: 1.5em;
+	margin-top: 100px;
+
+}
 .eventtext {
 	width: 80%;
 	display: block;
