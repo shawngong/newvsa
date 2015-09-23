@@ -1,4 +1,3 @@
 # newvsa
-
-*IN PROGRESS* New VSA site
+New VSA site
 
